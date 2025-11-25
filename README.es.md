@@ -4,9 +4,9 @@
 
 > 🌐 Herramienta de prueba de red para el protocolo SRT
 
-[![Languages](https://img.shields.io/badge/languages-5-blue.svg)](https://github.com/VideoSupporter/srt-probe-dev)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/VideoSupporter/srt-probe-dev/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/VideoSupporter/srt-probe-dev)
+[![Languages](https://img.shields.io/badge/languages-5-blue.svg)](https://gitlab.com/videosupporter/srt-probe)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://gitlab.com/videosupporter/srt-probe/-/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://gitlab.com/videosupporter/srt-probe)
 
 SRT Probe es una herramienta de prueba de red y medición de rendimiento para conexiones que utilizan el protocolo SRT (Secure Reliable Transport).
 
@@ -73,7 +73,7 @@ Haga doble clic en el icono **SRT Probe** en su escritorio o inícielo desde el 
 ## 📦 Instalación
 ### Fuera de Microsoft Store
 
-1. Descargue la última versión desde la página de [Releases](https://github.com/VideoSupporter/srt-probe-dev/releases)
+1. Descargue la última versión desde la página de [Releases](https://gitlab.com/videosupporter/srt-probe/-/releases)
 
 2. Ejecute el instalador
 
@@ -90,5 +90,5 @@ Si encuentra algún problema, consulte la [Guía de Solución de Problemas](guid
 ## 🤝 Soporte
 
 ### Informes de Errores y Solicitudes de Funciones
-Si descubre un problema o tiene una sugerencia para una nueva función, háganoslo saber en [GitHub Issues](https://github.com/VideoSupporter/srt-probe-dev/issues).
+Si descubre un problema o tiene una sugerencia para una nueva función, háganoslo saber en [GitLab Issues](https://gitlab.com/videosupporter/srt-probe/-/issues).
 

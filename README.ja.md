@@ -4,9 +4,9 @@
 
 > 🌐 SRTプロトコル用のネットワークテストツール
 
-[![Languages](https://img.shields.io/badge/languages-5-blue.svg)](https://github.com/VideoSupporter/srt-probe-dev)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/VideoSupporter/srt-probe-dev/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/VideoSupporter/srt-probe-dev)
+[![Languages](https://img.shields.io/badge/languages-5-blue.svg)](https://gitlab.com/videosupporter/srt-probe)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://gitlab.com/videosupporter/srt-probe/-/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://gitlab.com/videosupporter/srt-probe)
 
 SRT Probe は、SRT（Secure Reliable Transport）プロトコルを使用したネットワーク接続のテストとパフォーマンス測定を行うツールです。
 
@@ -73,7 +73,7 @@ graph LR
 ## 📦 インストール
 ### Microsoft Store以外
 
-1. [Releases](https://github.com/VideoSupporter/srt-probe-dev/releases) ページから最新版をダウンロード:
+1. [Releases](https://gitlab.com/videosupporter/srt-probe/-/releases) ページから最新版をダウンロード:
 
 2. インストーラーを実行
 
@@ -90,5 +90,5 @@ graph LR
 ## 🤝 サポート
 
 ### バグ報告・機能リクエスト
-問題を発見した場合や、新しい機能の提案がある場合は、[GitHub Issues](https://github.com/VideoSupporter/srt-probe-dev/issues) でお知らせください。
+問題を発見した場合や、新しい機能の提案がある場合は、[GitLab Issues](https://gitlab.com/videosupporter/srt-probe/-/issues) でお知らせください。
 

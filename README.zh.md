@@ -4,9 +4,9 @@
 
 > 🌐 SRT协议网络测试工具
 
-[![Languages](https://img.shields.io/badge/languages-5-blue.svg)](https://github.com/VideoSupporter/srt-probe-dev)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/VideoSupporter/srt-probe-dev/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/VideoSupporter/srt-probe-dev)
+[![Languages](https://img.shields.io/badge/languages-5-blue.svg)](https://gitlab.com/videosupporter/srt-probe)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://gitlab.com/videosupporter/srt-probe/-/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://gitlab.com/videosupporter/srt-probe)
 
 SRT Probe 是一款使用 SRT（Secure Reliable Transport）协议进行网络连接测试和性能测量的工具。
 
@@ -73,7 +73,7 @@ graph LR
 ## 📦 安装
 ### Microsoft Store 以外
 
-1. 从 [Releases](https://github.com/VideoSupporter/srt-probe-dev/releases) 页面下载最新版本
+1. 从 [Releases](https://gitlab.com/videosupporter/srt-probe/-/releases) 页面下载最新版本
 
 2. 运行安装程序
 
@@ -90,5 +90,5 @@ graph LR
 ## 🤝 支持
 
 ### 错误报告和功能请求
-如果您发现问题或有新功能建议，请在 [GitHub Issues](https://github.com/VideoSupporter/srt-probe-dev/issues) 上告诉我们。
+如果您发现问题或有新功能建议，请在 [GitLab Issues](https://gitlab.com/videosupporter/srt-probe/-/issues) 上告诉我们。
 
