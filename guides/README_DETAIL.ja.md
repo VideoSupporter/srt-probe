@@ -300,7 +300,7 @@ SRT Probe に関するご質問やお困りの点がございましたら、以�
 - ログファイル
 
 #### メールサポート
-一般的なお問い合わせ: videosp.dev@gmail.com
+一般的なお問い合わせ: videosp.info@gmail.com
 
 ### よくある質問（FAQ）
 

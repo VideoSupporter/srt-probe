@@ -300,7 +300,7 @@ Including the following information enables faster response:
 - Log files
 
 #### Email Support
-General inquiries: videosp.dev@gmail.com
+General inquiries: videosp.info@gmail.com
 
 ### Frequently Asked Questions (FAQ)
 
