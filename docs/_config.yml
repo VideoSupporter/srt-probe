@@ -1,0 +1,21 @@
+# GitHub Pages Configuration
+theme: jekyll-theme-minimal
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+
+# Enable relative links
+relative_links:
+  enabled: true
+  collections: true
+
+# Mermaid support
+# Note: GitHub Pages doesn't natively support Mermaid in Jekyll
+# We need to add custom JavaScript support
