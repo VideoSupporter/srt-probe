@@ -47,13 +47,11 @@ graph LR
 - Windows 10/11
 
 ## 스크린샷
-- receiver
 
-
+### Receiver
 ![Receiver (Listener)](./images/receiver.png)
-- sender
 
-
+### Sender
 ![Sender (Caller)](./images/sender.png)
 
 
