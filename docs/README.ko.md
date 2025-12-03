@@ -99,5 +99,7 @@ graph LR
 ## 🤝 지원
 
 ### 버그 보고 및 기능 요청
-문제를 발견하거나 새로운 기능에 대한 제안이 있는 경우 [GitHub Issues](https://github.com/videosupporter/srt-probe/issues)에 알려주세요.
+문제를 발견하거나 새로운 기능에 대한 제안이 있는 경우 다음을 통해 알려주세요:
 
+- [Google Forms](https://forms.gle/q97gbPZzTUqvL97V9)
+- [GitHub Issues](https://github.com/videosupporter/srt-probe/issues)

@@ -99,5 +99,8 @@ If you encounter any issues, please refer to the [Troubleshooting Guide](guides/
 ## 🤝 Support
 
 ### Bug Reports & Feature Requests
-If you discover a problem or have a suggestion for a new feature, please let us know on [GitHub Issues](https://github.com/videosupporter/srt-probe/issues).
+If you discover a problem or have a suggestion for a new feature, please let us know via:
+
+- [Google Forms](https://forms.gle/q97gbPZzTUqvL97V9)
+- [GitHub Issues](https://github.com/videosupporter/srt-probe/issues)
 

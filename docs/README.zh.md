@@ -99,5 +99,7 @@ graph LR
 ## 🤝 支持
 
 ### 错误报告和功能请求
-如果您发现问题或有新功能建议，请在 [GitHub Issues](https://github.com/videosupporter/srt-probe/issues) 上告诉我们。
+如果您发现问题或有新功能建议，请通过以下方式告诉我们：
 
+- [Google Forms](https://forms.gle/q97gbPZzTUqvL97V9)
+- [GitHub Issues](https://github.com/videosupporter/srt-probe/issues)

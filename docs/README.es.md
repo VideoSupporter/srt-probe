@@ -99,5 +99,8 @@ Si encuentra algún problema, consulte la [Guía de Solución de Problemas](guid
 ## 🤝 Soporte
 
 ### Informes de Errores y Solicitudes de Funciones
-Si descubre un problema o tiene una sugerencia para una nueva función, háganoslo saber en [GitHub Issues](https://github.com/videosupporter/srt-probe/issues).
+Si descubre un problema o tiene una sugerencia para una nueva función, háganoslo saber a través de:
+
+- [Google Forms](https://forms.gle/q97gbPZzTUqvL97V9)
+- [GitHub Issues](https://github.com/videosupporter/srt-probe/issues)
 
