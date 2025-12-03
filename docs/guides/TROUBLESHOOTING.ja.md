@@ -70,4 +70,4 @@ SRT Probe の使用中に問題が発生した場合の解決方法をまとめ�
 
 ## その他の問題
 
-上記で解決しない場合は、[GitLab Issues](https://gitlab.com/videosupporter/srt-probe/-/issues) で問題を報告してください。
+上記で解決しない場合は、[GitHub Issues](https://github.com/videosupporter/srt-probe/issues) で問題を報告してください。

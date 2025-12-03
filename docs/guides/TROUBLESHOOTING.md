@@ -70,5 +70,5 @@ This document provides solutions for problems that may occur while using SRT Pro
 
 ## Other Issues
 
-If the above does not resolve your issue, please report the problem at [GitLab Issues](https://gitlab.com/videosupporter/srt-probe/-/issues).
+If the above does not resolve your issue, please report the problem at [GitLab Issues](https://github.com/videosupporter/srt-probe/issues).
 
