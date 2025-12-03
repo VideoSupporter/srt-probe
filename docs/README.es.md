@@ -48,8 +48,12 @@ graph LR
 
 ## Capturas de Pantalla
 - receiver
+
+
 ![Receiver (Listener)](./images/receiver.png)
 - sender
+
+
 ![Sender (Caller)](./images/sender.png)
 
 
