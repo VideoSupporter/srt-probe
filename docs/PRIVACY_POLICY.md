@@ -68,7 +68,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 ## Contact Information
 
 If you have questions about this Privacy Policy, please:
-- Open an issue on our GitLab repository
+- Open an issue on our GitHub repository
 - Contact us at: [videosp.info@gmail.com]
 
 ## Your Rights

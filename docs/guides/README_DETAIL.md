@@ -289,8 +289,8 @@ Packet Loss: 0.1%
 
 If you have questions or issues with SRT Probe, please contact us through the following methods:
 
-#### GitLab Issues
-For technical issues and bug reports, please report at [GitLab Issues](https://github.com/videosupporter/srt-probe/issues).
+#### GitHub Issues
+For technical issues and bug reports, please report at [GitHub Issues](https://github.com/videosupporter/srt-probe/issues).
 
 Including the following information enables faster response:
 - Windows version

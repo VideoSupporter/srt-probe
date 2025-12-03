@@ -4,13 +4,13 @@ layout: default
 
 # SRT Probe
 
-> 🌐 **Languages**: [English](README.md) | [日本語](README.ja.md) | [中文](README.zh.md) | [한국어](README.ko.md) | [Español](README.es.md)
+> 🌐 **Languages**: [English](index.md) | [日本語](README.ja.md) | [中文](README.zh.md) | [한국어](README.ko.md) | [Español](README.es.md)
 
 > 🌐 SRT 프로토콜용 네트워크 테스트 도구
 
-[![Languages](https://img.shields.io/badge/languages-5-blue.svg)](https://github.com/videosupporter/srt-probe)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/videosupporter/srt-probe/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/videosupporter/srt-probe)
+[![Languages](https://img.shields.io/badge/languages-5-blue.svg)](https://apps.microsoft.com/detail/9NLQLPL2SBZ1?hl=ja&gl=JP&ocid=pdpshare)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://apps.microsoft.com/detail/9NLQLPL2SBZ1?hl=ja&gl=JP&ocid=pdpshare)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://apps.microsoft.com/detail/9NLQLPL2SBZ1?hl=ja&gl=JP&ocid=pdpshare)
 
 SRT Probe는 SRT(Secure Reliable Transport) 프로토콜을 사용한 네트워크 연결 테스트 및 성능 측정 도구입니다.
 
